@@ -1,0 +1,56 @@
+# Ignore build outputs
+[Bb]in/
+[Oo]bj/
+out/
+artifacts/
+
+# Visual Studio & Rider
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# MSBuild
+project.lock.json
+project.fragment.lock.json
+
+# User secrets
+secrets.json
+*.usersecrets
+
+# Test results and tools
+TestResults/
+coverage*/
+*.coverage
+
+# Logs
+*.log
+
+# Publish
+publish/
+
+# Rider caches
+.idea/
+.idea/**/workspace.xml
+
+# Others
+*.dbmdl
+*.pidb
+*.opendb
+*.vspscc
+.vscode/
+
+# Node modules (if present)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
