@@ -19,7 +19,7 @@ namespace CSharpLearning
 
 
         // ************* UPPER CASE LETTER *************
-        // classes, structs, enumerations, properties, methods, and events with any accessibility, the default naming style is Pascal case
+        // classes, structs, enumerations, properties, constants, methods, and events with any accessibility, the default naming style is Pascal case
 
         // constant names
         const int DaysInWeek = 7;

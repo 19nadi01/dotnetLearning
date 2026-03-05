@@ -1,7 +1,7 @@
 ﻿
 namespace CSharpLearning
 {
-    public class NonStaticClassWithStatichMembers
+    public class NonStaticClassWithStaticMembers
     {
         public static string StaticName = "";
         public string InstanceName = "";

@@ -2,10 +2,10 @@
 namespace CSharpLearning
 {
     /*
-     * Struct is a value type, declared with 'sctruct' key word
+     * Struct is a value type, declared with 'struct' key word
      * Meanwhile: class is a reference type and is declared with 'class' key word 
      * Both struct and class can have fields, properties, constructors and methods
-     * byte, short, int, double, decimal, bool, char are value (primitive) types declared as scruct
+     * byte, short, int, double, decimal, bool, char are value (primitive) types declared as struct
      * DateTime is also a value type, declared as struct 
      */
     public struct Point
